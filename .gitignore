@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 # Adding config.py file and coursework practice.
 config.py
 API_practice.ipynb
 random_numbers.ipynb
+=======
+#Adding config.py file and coursework practices
+config.py
+API_practice.ipynb
+random_numbers.ipynb
+
+>>>>>>> 6aab540eee7be16625414b4513bd223c9175aba0
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
